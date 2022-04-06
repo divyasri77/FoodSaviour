@@ -1,4 +1,4 @@
-[8:21 PM, 2/3/2022] Harshini Vcet: response = Map();
+response = Map();
 msg = answers.get("text");
 if(context_id.equals("donatefood"))
 {
